@@ -1,0 +1,30 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.tabeli {
+    box-sizing:  border-box;
+    border: 1px solid gray;
+    margin-right:  10px;
+}
+
+.ednakvi-tabeli {
+    display: flex;
+}
+
+
+.tabeli1 {
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin-right: 10px;
+    
+}
+.tabeli2 {
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    
+}
